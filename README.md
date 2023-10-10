@@ -31,6 +31,7 @@ RFM is a simple framework to quantify customer behaviour. Many people have exten
 ### Two notable versions are:
 
 i. RFD (Recency, Frequency, Duration) — Duration here is time spent. Particularly useful while analyzing consumer behaviour of viewership/readership/surfing oriented products.
+
 ii. RFE (Recency, Frequency, Engagement) — Engagement can be a composite value based on time spent on a page, pages per visit, bounce rate, social media engagement etc. Particularly useful for online businesses.
 
 You can perform RFM for your entire customer base, or just a subset. For example, you may first segment customers based on a geographical area or other demographics, and then by RFM for historical, transaction-based behaviour segments.
